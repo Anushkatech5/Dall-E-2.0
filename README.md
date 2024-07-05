@@ -78,4 +78,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions or inquiries, please contact [your-guptaanushka024@gmail.com](mailto:guptaanushka024@gmail.com).
+For any questions or inquiries, please contact [guptaanushka024@gmail.com](mailto:guptaanushka024@gmail.com).
