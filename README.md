@@ -1,4 +1,4 @@
-# Dall-E-2.0
+# Dall-E 2.0
 
 Welcome to Dall-E-2.0, an advanced AI image generation tool inspired by MidJourney and DALL-E! This project allows you to create stunning images from textual prompts, utilizing modern web technologies and AI.
 
@@ -11,6 +11,8 @@ AI image generation tools such as MidJourney and DALL-E have revolutionized the 
 Given that the OpenAI API is now a paid service, we have provided screenshots below to validate the functionality and effectiveness of the Dall-E-2.0 project. These visuals offer a transparent representation of the application's capabilities and its operational status.
 
 ![Project Banner](https://raw.githubusercontent.com/Anushkatech5/Dall-E-2.0/master/Interface.png)
+![Create Post](https://raw.githubusercontent.com/Anushkatech5/Dall-E-2.0/master/CreatePost.jpeg)
+![Generated Image](https://raw.githubusercontent.com/Anushkatech5/Dall-E-2.0/master/Image.png)
 
 ## Features
 
