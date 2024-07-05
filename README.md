@@ -73,11 +73,7 @@ I welcome contributions to enhance the project! To contribute:
 3. Commit your changes (`git commit -m 'Add new feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License.
-
+6. 
 ## Contact
 
 For any questions or inquiries, please contact [guptaanushka024@gmail.com](mailto:guptaanushka024@gmail.com).
